@@ -1,0 +1,15 @@
+name: qsar
+channels:
+  - conda-forge
+  - defaults
+  - rdkit
+dependencies:
+  - nbstripout
+  - numpy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+  - rdkit
+  - requests
