@@ -125,8 +125,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# notes
+# notes and data
 notes/
+data/
 
 # pycharm
 .idea/
